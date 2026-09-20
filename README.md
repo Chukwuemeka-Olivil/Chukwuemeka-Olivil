@@ -100,12 +100,5 @@ I am continuing to develop my practical cybersecurity knowledge through:
 
 - **LinkedIn:** https://www.linkedin.com/in/olivilonyinyechukwemekauemeka/
 
----
 
-## ⚠️ Ethical Use Notice
 
-All cybersecurity activities documented in this portfolio are conducted for educational purposes using controlled laboratory environments, intentionally vulnerable applications, local systems, and authorized testing environments.
-
-No unauthorized systems or production environments are intentionally targeted.
-
-This portfolio is maintained as evidence of practical cybersecurity learning, technical development, and security analysis.
