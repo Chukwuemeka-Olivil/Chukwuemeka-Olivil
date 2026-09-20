@@ -1,10 +1,10 @@
 # Hi, I'm Olivil Onyinye Chukwuemeka 👋
 
-### Cybersecurity Analyst | Information Security | Cybersecurity Portfolio
+### Cybersecurity Analyst | Information Security | Security Testing
 
-I am a cybersecurity professional developing practical skills in information security, vulnerability assessment, network security, web application security, cryptography, and security analysis.
+I am a cybersecurity professional developing practical skills in information security, vulnerability assessment, web application security, network security, Linux security, cryptography, threat intelligence, and security analysis.
 
-My portfolio documents hands-on cybersecurity laboratories, technical projects, security assessments, and practical learning using Linux, Python, and industry-relevant security tools.
+This GitHub profile documents my ongoing cybersecurity development through hands-on laboratory exercises, technical projects, security assessments, and practical experimentation in controlled and authorized environments.
 
 ---
 
