@@ -1,104 +1,26 @@
 # Hi, I'm Olivil Onyinye Chukwuemeka 👋
 
-### Cybersecurity Analyst | Information Security | Security Testing
+### Cybersecurity Analyst | Information Security | Threat Intelligence | Ethical Hacking & Penetration Testing | Data Analytics
 
-I am a cybersecurity professional developing practical skills in information security, vulnerability assessment, web application security, network security, Linux security, cryptography, threat intelligence, and security analysis.
+I am a Cybersecurity Analyst focused on information security, threat intelligence, security testing, vulnerability assessment, and practical cybersecurity operations.
 
-This GitHub profile documents my ongoing cybersecurity development through hands-on laboratory exercises, technical projects, security assessments, and practical experimentation in controlled and authorized environments.
+My GitHub portfolio showcases hands-on security projects, technical assessments, laboratory work, and practical implementations across cybersecurity, supported by experience with industry-relevant security tools, Linux, Python, SQL, and data analysis.
 
----
+## 🔐 Areas of Focus
 
-## 🔐 Cybersecurity Focus
+**Information Security • Threat Intelligence • Ethical Hacking & Penetration Testing • Vulnerability Assessment • Web & Network Security • Linux Security • Cryptography • Security Analysis • Data Analytics**
 
-- Web Application Security
-- Vulnerability Assessment
-- Network Security
-- Security Monitoring & Analysis
-- Access Control & Identity Management
-- Cryptography
-- Cyber Threat Intelligence
-- Linux Security
-- Security Testing
-- Technical Security Documentation
+## 🛠️ Technologies
 
----
+**Kali Linux • Python • SQL • Bash • Nmap • Wireshark • Burp Suite • SQLMap • Nessus • Metasploit • OpenSSL • GPG**
 
-## 🛠️ Tools & Technologies
+## 📂 Portfolio
 
-### Security Tools
-- Nmap
-- Wireshark
-- Burp Suite
-- SQLMap
-- Nessus
-- Nikto
-- Metasploit
-- Gobuster
-- Hashcat
-- John the Ripper
-- GPG
-
-### Operating Systems & Platforms
-- Kali Linux
-- Linux
-- Windows
-- DVWA
-- OWASP Mutillidae
-
-### Programming & Data
-- Python
-- SQL
-- Bash
-- Excel
-- Power BI
-- Tableau
-
----
-
-## 🧪 Practical Cybersecurity Projects
-
-My portfolio includes practical laboratory work covering:
-
-- Web Application Security
-- SQL Injection Testing
-- Cross-Site Scripting (XSS)
-- Command Injection
-- File Upload Vulnerabilities
-- Network Security
-- Network Traffic Analysis
-- Linux File Permissions & Access Control
-- Cryptography
-- Vulnerability Assessment
-- Reconnaissance & Information Gathering
-- Password Security
-- Digital Signatures
-- TLS Security
-- Security Configuration & Hardening
-
-All security testing documented in my portfolio is conducted in controlled laboratory environments, intentionally vulnerable applications, or authorized educational settings.
-
----
+My repositories contain practical cybersecurity projects, security assessments, technical documentation, and laboratory evidence across different areas of information security.
 
 
-## 🎯 Current Learning
+## 📫 Connect
 
-I am continuing to develop my practical cybersecurity knowledge through:
-
-- Security laboratories
-- Vulnerability assessment
-- Web application security testing
-- Network analysis
-- Cyber threat intelligence
-- Linux security
-- Cryptography
-- Security monitoring
-- Practical security documentation
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/olivilonyinyechukwemekauemeka/
-
+LinkedIn:linkedin.com/in/olivilonyinyechukwemekauemeka/ 
 
 
